@@ -1,0 +1,15 @@
+---
+languageCode: "en-us"
+title: "wowcool.biz"
+baseURL: "https://wowcool.biz/"
+params:
+  strapline": "generative art hub"
+  description": "A collection of interactive generative art."
+taxonomies:
+  tag: "tags"
+googleAnalytics": "#"
+disableHugoGeneratorInject": true
+disableLiveReload": true
+enableRobotsTXT": true
+metaDataFormat": "yaml"
+---
